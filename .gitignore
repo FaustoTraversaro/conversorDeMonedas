@@ -1,0 +1,10 @@
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+
+# Archivos compilados de Java
+/out/
+*.class
+
+# Archivos de log
+*.log
